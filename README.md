@@ -1,4 +1,4 @@
-<h1 align="center"> Confira a versão final -> <a href="https://arthu0x07.github.io/AmazingGraphWebPage/" target="_blank">AmazingGraphWebPage</a>
+<h1 align="center"> Confira a versão final -> <a href="https://arthu0x07.github.io/PerfilComponentWebPage/" target="_blank">AmazingGraphWebPage</a>
 
 
 <br><br><br>
